@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Imbue:opsz,wght@10..100,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Imbue:opsz,wght@10..100,100..900&family=Indie+Flower&family=Jacquarda+Bastarda+9+Charted&family=MedievalSharp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Imbue:opsz,wght@10..100,100..900&family=Indie+Flower&family=Jacquarda+Bastarda+9+Charted&family=MedievalSharp&display=swap');
+
+
+body {
+    
+    margin: 20px;
+    padding: 0;
+    background-color: rgb(242, 224, 203);
+    
+}
+
+header {
+    font-family: "MedievalSharp",cursive;
+
+    
+    color: #791010;
+    text-align: center;
+    padding: 20px 0;
+}
+.angel{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-content:center; 
+}
+section {
+    padding: 20px;
+    background-color: palevioletred;
+}
+h2 {
+    color: #333;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+}
+p {
+    
+    color: #555;
+    line-height: 1.6;
+    text-align: center;
+    
+}
+.centre{
+    margin-left:500px;
+}
+.renai{
+    display: flex;
+    justify-content:space-between;
+
+}
+.imgtext{
+    display: flex;
+    justify-content:space-between;
+    
+     
+}
+div{
+    margin : 20px;
+}
+h3{
+    margin: 50px;
+    margin-left: 500px;
+    font-style: italic;
+}
